@@ -77,16 +77,13 @@ Also, count the number of results.
 	{% endif %}
 {% endfor %}
 
-<ol>
+<ol list-style-type="none">
 {% assign pages = site.pages | sort: 'title' %}
 {% for page in pages %}
 	 {% if page.tags contains tag_seite %}
 	 {% assign pagecount = pagecount | plus: 1 %}	
 	 <li>
-	 <a href="{{ page.url }}">{{ page.title }}</a>
-	 {% for tag in page.tags %}
-		 <a class="tag" href="/tags/{{ tag | slugify }}">{{ tag }}</a>
-	 {% endfor %}
+	 	<a href="{{ page.url }}">{{ page.title }}</a>
 	 </li>
 	 {% endif %}
 {% endfor %}
