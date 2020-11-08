@@ -1,10 +1,10 @@
 ---
-title: Chemie Oberstufe
+title: Chemie 11s
 layout: page
 showinmenu: false
 ---
 
-## Themen im gA-Kurs
+## Themen
 
 1. Atommodelle, Redoxreaktionen, Elektrochemie
 	- [1.1 Atommodelle](themen/atommodelle) <a class="tag" href="/tags/atommodelle">atommodelle</a>
