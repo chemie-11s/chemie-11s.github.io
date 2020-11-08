@@ -1,10 +1,10 @@
 ---
-title: Seiten getaggt mit "PSE"
+title: Themen
 layout: page
-showinmenu: false
+showinmenu: true
 page-last-updated: automatisch generiert
 ---
-{% assign tag_seite = "pse" %}
+{% assign tag_seite = "thema" %}
 
 {% comment %}
 =======================
