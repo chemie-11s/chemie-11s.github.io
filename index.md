@@ -77,7 +77,7 @@ Also, count the number of results.
 	{% endif %}
 {% endfor %}
 
-<ol list-style-type="none">
+<ol style="list-style-type: none;">
 {% assign pages = site.pages | sort: 'title' %}
 {% for page in pages %}
 	 {% if page.tags contains tag_seite %}
