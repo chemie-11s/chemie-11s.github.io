@@ -27,7 +27,7 @@ page-last-updated: 2020-11-08
 	- [3.4 Titrationen](themen/titrationen) <a class="tag" href="/tags/titrationen">titrationen</a>
 4. [4a Thermochemie](themen/thermochemie) <a class="tag" href="/tags/thermochemie">thermochemie</a>  
    [4b Komplexchemie und Qualitative Analyse](themen/komplexchemie-und-qualitative-analyse) <a class="tag" href="/tags/komplexchemie">komplexchemie</a>
-{ %endcomment% }
+{% endcomment %}
 
 {% assign tag_seite = "thema" %}
 
