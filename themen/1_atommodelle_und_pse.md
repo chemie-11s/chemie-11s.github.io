@@ -3,12 +3,16 @@ title: 1. Atommodell und Periodensystem
 layout: page
 showinmenu: false
 tags: [thema, atommodell, pse]
-page-last-updated: 2020-11-08
+page-last-updated: 2020-11-09
 ---
 
 ## Worum geht's?
 
 Atome sind die Grundbausteine von Stoffen. Da sich die Chemie mit Stoffen, ihren Eigenschaften und der Umwandlung von Stoffen durch chemische Reaktionen beschäftigt, ist es notwendig den Bau von Atomen beschreiben zu können. Dabei stellt das Periodensystem der Elemente (PSE) ein wichtiges Hilfsmittel dar.
+
+## Zeitlicher Rahmen
+
+- etwa eine Woche bzw. Doppelstunde
 
 ## Checkliste
 
@@ -16,17 +20,17 @@ Ich kann ...
 
 | Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
 | ---   | ---      | ---         | ---     | ---      |
-| 1 die Einteilung von Stoffen beschreiben. |  |  |  |  |
-| 2 den Atombau von Hauptgruppenelementen mit Hilfe des Bohr'schen Atommodells beschreiben. |  |  |  |  |
-| 3 den Zusammenhang zwischen Atombau und Stellung der Elemente im PSE erläutern. |  |  |  |  |
+| 1* die Einteilung von Stoffen beschreiben und Beispiele nennen. |  | Chemie heute 3.1, 5.1 |  |  |
+| 2* den Atombau von Hauptgruppenelementen mit Hilfe des Bohr'schen Atommodells beschreiben. |  | Chemie heute 9.1, 9.5 (Atomkern und Isotope Chemie heute 9.4) |  |  |
+| 3* den Zusammenhang zwischen Atombau und Stellung der Elemente im PSE erläutern. |  | Chemie heute 9.1, 9.6 |  |  |
 
 ## Fachbegriffe und Konzepte
 
 - Einteilung der Stoffe
-	- Reinstoffe - Stoffgemische
-	- homogene und heterogene Stoffgemische
-	- chemische Elemente - chemische Verbindungen
-	- Metalle - Nichtmetalle
+	- Reinstoffe - Stoffgemische (+ Beispiele)
+	- homogene und heterogene Stoffgemische (+ Beispiele)
+	- chemische Elemente - chemische Verbindungen (+ Beispiele)
+	- Metalle - Nichtmetalle (+ Beispiele)
 - Bohr'sches Atommodell
 	- Elementarteilchen: Protonen, Elektronen, Neutronen
 	- Atomkern, Atomhülle, Größenverhältnisse
