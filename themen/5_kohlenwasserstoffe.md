@@ -14,13 +14,13 @@ page-last-updated: 2020-11-08
 
 Ich kann ...
 
-| Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
-| ---   | ---      | ---         | ---     | ---      |
-| 1 die Stellung des Kohlenstoffs im PSE erläutern und die Bindigkeit des Kohlenstoffs daraus ableiten. |  |  |  |  |
-| 2 Kohlenwasserstoffe nach Struktur und Bindungsverhältnissen ordnen. |  |  |  |  |
-| 3 die Molekülstruktur kettenförmiger Alkane, Alkene und Alkine beschreiben. |  |  |  |  |
-| 4 typische Eigenschaften von Kohlenwasserstoffen anhand der Molekülstruktur erklären. |  |  |  |  |
-| 5 typische Reaktionen von Kohlenwasserstoffen anhand der Molekülstruktur erklären und Wort- und Formelgleichungen dazu aufstellen. |  |  |  |  |
+| Lernziel | Materialien | Übungen |
+| ---      | ---         | ---     |
+| 1 die Stellung des Kohlenstoffs im PSE erläutern und die Bindigkeit des Kohlenstoffs daraus ableiten. | PSE, Chemie heute 9.6 | Erläute die Stellung des Kohlenstoffs im PSE. Begründe anhand des Elektronegativitätswertes, dass Kohlenstoff bevorzugt Atombindungen bildet. Begründe weiterhin mit Hilfe der Oktettregel, dass Kohlenstoff bevorzugt 4 Atombindungen ausbildet. |
+| 2 Kohlenwasserstoffe nach Struktur und Bindungsverhältnissen ordnen und Beispiele nennen. | Chemie heute S. 334 | Erstelle ein Ordnungsschema zur Strukturvielfalt der Kohlenwasserstoffe. |
+| 3 die Molekülstruktur kettenförmiger Alkane, Alkene und Alkine beschreiben. | Chemie heute 15.2, 15.8 | Chemie heute S. 302 Nr. 1, S. 336 A1 |
+| 4 typische Eigenschaften von Kohlenwasserstoffen anhand der Molekülstruktur erklären. |  |  |
+| 5 typische Reaktionen von Kohlenwasserstoffen anhand der Molekülstruktur erklären und Wort- und Formelgleichungen dazu aufstellen. |  |  |
 
 
 ## Fachbegriffe und Konzepte
@@ -29,9 +29,11 @@ Ich kann ...
 - Bindigkeit
 - Strukturvielfalt von Kohlenwasserstoffen:
 	- kettenförmig
+	- verzweigt / nicht verzweigt
 	- ringförmig
 	- gesättigt
 	- ungesättigt
+	- aromatisch
 - Eigenschaften von Kohlenwasserstoffen
 	- Aggregatzustand
 	- Löslichkeit

@@ -3,7 +3,7 @@ title: 3. Säure-Base-Reaktionen
 layout: page
 showinmenu: false
 tags: [thema, protonenübergang]
-page-last-updated: 2020-11-08
+page-last-updated: 2020-11-10
 ---
 
 ## Worum geht's?
@@ -14,13 +14,12 @@ page-last-updated: 2020-11-08
 
 Ich kann ...
 
-| Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
-| ---   | ---      | ---         | ---     | ---      |
-| 1 die Neutralisation als Reaktion mit Protonenübergang darstellen und dazu Wort- und Formelgleichungen aufstellen. |  |  |  |  |
-| 1a den Nachweis von Wasserstoff-Ionen und Hydroxid-Ionen durch Indikatoren beschreiben. |  |  |  |  |
-| 1b das Donator-Akzeptor-Prinzip am Beispiel der Neutralisation erläutern. |  |  |  |  |
-| 1c chemische Reaktionen zur Bildung von Salzen beschreiben und als Reaktionen mit Elektronenübergang kennzeichnen. |  |  |  |  |
-| 2 am Beispiel einer Neutralisation die Merkmale einer chemischen Reaktion erläutern. |  |  |  |  |
+| Lernziel | Materialien | Übungen |
+| ---      | ---         | ---     |
+| 1a die Neutralisation als Reaktion mit Protonenübergang darstellen und dazu Wort- und Formelgleichungen aufstellen. | Chemie heute 12.6, 12.8 | Chemie heute S. 240 A1, A2, A7 |
+| 1b den Nachweis von Wasserstoff-Ionen und Hydroxid-Ionen durch Indikatoren beschreiben. | Chemie heute 12.2, 12.4, S. 239 | Chemie heute S. 237 A3 |
+| 1c das Donator-Akzeptor-Prinzip am Beispiel der Neutralisation erläutern. | Chemie heute S. 251, Kap. 12.8 | Chemie heute S. 229 Nr. 2; S. 237 Nr. 1, 2, 4, 6 |
+| 2 am Beispiel einer Neutralisation die Merkmale einer chemischen Reaktion erläutern. |  | [Experiment 2 - Neutralisation](/experimente/E2_Neutralisation) |
 
 ## Fachbegriffe und Konzepte
 
@@ -29,9 +28,9 @@ Ich kann ...
 	- Akzeptor
 	- Übergang von Teilchen vom Donator zum Akzeptor
 - Reaktionen mit Protonenübergang
-	- Protonendonator / Säure
-	- Protonenakzeptor / Base
-	- Wasserstoff-Ionen und Hydroxid-Ionen
+	- Protonendonator / Säure (Brönsted)
+	- Protonenakzeptor / Base (Brönsted)
+	- Wasserstoff-Ionen und Hydroxid-Ionen (Säuren und Basen nach Arrhenius)
 	- pH-Indikatoren
 - Merkmale der chemischen Reaktion:
 	- Stoffumwandlung

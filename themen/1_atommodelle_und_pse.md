@@ -18,11 +18,11 @@ Atome sind die Grundbausteine von Stoffen. Da sich die Chemie mit Stoffen, ihren
 
 Ich kann ...
 
-| Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
-| ---   | ---      | ---         | ---     | ---      |
-| 1* die Einteilung von Stoffen beschreiben und Beispiele nennen. |  | Chemie heute 3.1, 5.1 |  |  |
-| 2* den Atombau von Hauptgruppenelementen mit Hilfe des Bohr'schen Atommodells beschreiben. |  | Chemie heute 9.1, 9.5 (Atomkern und Isotope Chemie heute 9.4) |  |  |
-| 3* den Zusammenhang zwischen Atombau und Stellung der Elemente im PSE erläutern. |  | Chemie heute 9.1, 9.6 |  |  |
+| Lernziel | Materialien | Übungen |
+| ---      | ---         | ---     |   
+| 1* die Einteilung von Stoffen beschreiben und Beispiele nennen. | Chemie heute 3.1, 5.1 | Chemie heute S. 57 A1 und A2, S. 104 A1 |
+| 2* den Atombau von Hauptgruppenelementen mit Hilfe des Bohr'schen Atommodells beschreiben. | Chemie heute 9.1, 9.5 (Atomkern und Isotope Chemie heute 9.4) | Chemie heute S. 172 A6, A7 |
+| 3* den Zusammenhang zwischen Atombau und Stellung der Elemente im PSE erläutern. | Chemie heute 9.1, 9.6 | Chemie heute S. 172 A1, A2, A8 |
 
 ## Fachbegriffe und Konzepte
 

@@ -3,7 +3,7 @@ title: 4. Redoxreaktionen
 layout: page
 showinmenu: false
 tags: [thema, elektronenübergang]
-page-last-updated: 2020-11-08
+page-last-updated: 2020-11-10
 ---
 
 ## Worum geht's?
@@ -14,13 +14,15 @@ page-last-updated: 2020-11-08
 
 Ich kann ...
 
-| Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
-| ---   | ---      | ---         | ---     | ---      |
-| 1 Redoxreaktionen als Reaktionen mit Elektronenübergang beschreiben. |  |  |  |  |
-| 1a einfache Redoxgleichungen mit Teilgleichungen aufstellen. |  |  |  |  |
-| 1b in einfachen Redoxgleichungen Oxidation und Reduktion kennzeichnen. |  |  |  |  |
-| 1c Oxidationszahlen bestimmen. |  |  |  |  |
-| 2 am Beispiel von Neutralisation  und Redoxreaktion die Merkmale einer chemischen Reaktion erläutern. |  |  |  |  |
+| Lernziel | Materialien | Übungen |
+| ---      | ---         | ---     |
+| 1 chemische Reaktionen zur Bildung von Salzen beschreiben und als Reaktionen mit Elektronenübergang kennzeichnen. | Chemie heute 10.4 | Chemie heute S. 190 A6, A7, A8 |
+| 2a Redoxreaktionen als Reaktionen mit Elektronenübergang beschreiben. | Chemie heute 13.2 |  |
+| 2b das Donator-Akzeptor-Prinzip am Beispiel einer Redoxreaktion erläutern. | Chemie heute 13.2, S. 251 | Chemie heute S. 247 Nr. 1 |
+| 2c einfache Redoxgleichungen mit Teilgleichungen aufstellen. | Chemie heute 13.2, S. 250 | Chemie heute S. 247 Nr. 3 |
+| 2d in einfachen Redoxgleichungen Oxidation und Reduktion kennzeichnen. | Chemie heute 13.2, S. 250 | Chemie heute S. 264 A2 |
+| 2e Oxidationszahlen bestimmen. | Chemie heute S. 356f | Chemie heute S. 357 Nr. 1 und 2 |
+| 3 am Beispiel einer Redoxreaktion die Merkmale einer chemischen Reaktion erläutern. |  | Experiment 3 - Salze aus Metallen und Metalloxiden herstellen](/experimente/E3_Salze_aus_Metallen_und_Metalloxiden_herstellen) |
 
 ## Fachbegriffe und Konzepte
 
