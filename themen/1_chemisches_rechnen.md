@@ -1,9 +1,9 @@
 ---
-title: 7. Chemisches Rechnen
+title: 1. Chemisches Rechnen
 layout: page
 showinmenu: false
 tags: [thema, chemisches-rechnen]
-page-last-updated: 2020-11-08
+page-last-updated: 2020-11-12
 ---
 
 ## Worum geht's?

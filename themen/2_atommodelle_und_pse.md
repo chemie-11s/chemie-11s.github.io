@@ -1,9 +1,9 @@
 ---
-title: 1. Atommodell und Periodensystem
+title: 2. Atommodell und Periodensystem
 layout: page
 showinmenu: false
 tags: [thema, atommodell, pse]
-page-last-updated: 2020-11-09
+page-last-updated: 2020-11-12
 ---
 
 ## Worum geht's?

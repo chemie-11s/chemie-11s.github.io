@@ -1,9 +1,9 @@
 ---
-title: 2. Chemische Bindung, Stoffeigenschaften und chemische Reaktionen
+title: 3. Chemische Bindung, Stoffeigenschaften und chemische Reaktionen
 layout: page
 showinmenu: false
 tags: [thema, chemische-bindung, stoffeigenschaften, chemische-reaktion]
-page-last-updated: 2020-11-09
+page-last-updated: 2020-11-12
 ---
 
 ## Worum geht's?
@@ -16,9 +16,9 @@ Ich kann ...
 
 | Lernziel | Materialien | Übungen |
 | ---      | ---         | ---     | 
-| 1 typische Eigenschaften der Metalle und Nichtmetalle nennen und diese mit Hilfe der chemischen Bindungen erklären. |  |  |
-| 2a die Bildung von Metall- und Nichtmetalloxiden aus den Elementen beschreiben, dazu Wort- und Formelgleichungen aufstellen und daran die Merkmale der chemischen Reaktion erläutern. | Chemie heute 4.1, 4.3, Basiswissen S. 77 |  |
-| 2b Formeln von Metall- und Nichtmetalloxiden aufstellen. |  |  |
+| 1 typische Eigenschaften der Metalle und Nichtmetalle nennen und diese mit Hilfe der chemischen Bindungen erklären. | Chemie Plus 9/10 S. 136-137 | Chemie Plus 9/10 S. 137 Nr. 3 |
+| 2a die Bildung von Metall- und Nichtmetalloxiden aus den Elementen beschreiben, dazu Wort- und Formelgleichungen aufstellen und daran die Merkmale der chemischen Reaktion erläutern. | Chemie Plus 7/8 S. 98-99, 128-129; Chemie Plus 9/10 S. 150-151; Chemie heute 4.1, 4.3, Basiswissen S. 77 | Chemie Plus 7/8 S. 129 Nr. 2, 3, 4, 5; Chemie Plus 9/10 S. 151 Nr. 2 |
+| 2b Formeln von Metall- und Nichtmetalloxiden aufstellen. | Chemie in Übersichten S. 33-34 |  |
 | 3 die chemische Bindung in Wasser beschreiben und daraus Eigenschaften des Wassers ableiten. |  |  |
 | 4 chemische Reaktionen der Oxide mit Wasser erklären und dazu Wort- und Formelgleichungen aufstellen. |  |  |
 | 5a anhand der Ionenbindung in Hydroxiden und der polaren Atombindung in Säuren die Reaktionen von Säure- und Baselösungen erklären. |  |  |
@@ -46,8 +46,8 @@ Ich kann ...
 	- polare Atombindung
 	- Dipolmolekül
 	- Wasserstoffbrücken
-- Säure- und Baselösungen
-	- Säuren, polare Atombindung
+- Säure- und Baselösungen nach Arrhenius
+	- Säuren, Wasserstoff-Ionen
 	- Basen, Hydroxide
 	- pH-Wert
 	- Dissoziation
