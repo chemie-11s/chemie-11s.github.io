@@ -16,9 +16,10 @@ Ich kann ...
 
 | Lernziel | Materialien | Übungen |
 | ---      | ---         | ---     |
-| 1 Teilchenzahl und Stoffmenge als Mengenangaben der Chemie beschreiben. |  |  |
-| 2 Masseberechnungen durchführen: Stoffmenge, molare Masse, Masse. |  |  |
-| 3 Volumenberechnungen durchführen: Stoffmenge, molares Volumen, Volumen. |  |  |
+| 1 Teilchenzahl und Stoffmenge als Mengenangaben der Chemie beschreiben. | Chemie heute Kap. 7.1 | - |
+| 2 Masseberechnungen durchführen: Stoffmenge, molare Masse, Masse. | Chemie heute Kap. 7.1, S. 133 | Chemie heute S. 125 Nr. 1, 3; Chemie heute S. 134 A2, A3, A4 |
+| 3 Volumenberechnungen durchführen: Stoffmenge, molares Volumen, Volumen. | Chemie heute Kap. 7.2, S. 133 |  |
+| 4 Masse- und Volumenberechnungen bei chemischen Reaktionen durchführen (stöchiometrisches Rechnen). | Chemie heute Kap. 7.4 | Chemie heute S. 131 Nr. 2, 3, 4, 5 |
 
 ## Fachbegriffe und Konzepte
 
