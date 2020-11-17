@@ -3,12 +3,14 @@ title: 3. Chemische Bindung, Stoffeigenschaften und chemische Reaktionen
 layout: page
 showinmenu: false
 tags: [thema, chemische-bindung, stoffeigenschaften, chemische-reaktion]
-page-last-updated: 2020-11-12
+page-last-updated: 2020-11-17
 ---
 
 ## Worum geht's?
 
+## Zeitlicher Rahmen
 
+- etwa zwei Doppelstunden
 
 ## Checkliste
 

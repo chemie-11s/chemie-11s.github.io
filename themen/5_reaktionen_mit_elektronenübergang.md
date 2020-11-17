@@ -3,12 +3,14 @@ title: 5. Redoxreaktionen
 layout: page
 showinmenu: false
 tags: [thema, elektronenübergang]
-page-last-updated: 2020-11-12
+page-last-updated: 2020-11-17
 ---
 
 ## Worum geht's?
 
+## Zeitlicher Rahmen
 
+- etwa zwei Doppelstunden
 
 ## Checkliste
 

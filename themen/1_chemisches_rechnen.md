@@ -3,12 +3,14 @@ title: 1. Chemisches Rechnen
 layout: page
 showinmenu: false
 tags: [thema, chemisches-rechnen]
-page-last-updated: 2020-11-12
+page-last-updated: 2020-11-17
 ---
 
 ## Worum geht's?
 
+## Zeitlicher Rahmen
 
+- idealerweise über einen längeren Zeitraum immer mal wieder eine Übungsaufgabe rechnen
 
 ## Checkliste
 

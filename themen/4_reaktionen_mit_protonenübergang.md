@@ -3,12 +3,14 @@ title: 4. Säure-Base-Reaktionen
 layout: page
 showinmenu: false
 tags: [thema, protonenübergang]
-page-last-updated: 2020-11-12
+page-last-updated: 2020-11-17
 ---
 
 ## Worum geht's?
 
+## Zeitlicher Rahmen
 
+- etwa zwei Doppelstunden
 
 ## Checkliste
 

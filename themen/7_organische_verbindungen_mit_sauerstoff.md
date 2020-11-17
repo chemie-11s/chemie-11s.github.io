@@ -3,12 +3,14 @@ title: 7. Organische Verbindungen mit Sauerstoff
 layout: page
 showinmenu: false
 tags: [thema, organische-sauerstoffverbindungen]
-page-last-updated: 2020-11-12
+page-last-updated: 2020-11-17
 ---
 
 ## Worum geht's?
 
+## Zeitlicher Rahmen
 
+- etwa zwei Doppelstunden
 
 ## Checkliste
 
@@ -41,3 +43,5 @@ Ich kann ...
 ## Material
 
 - Lehrbücher
+
+- 

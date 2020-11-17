@@ -3,7 +3,7 @@ title: 2. Atommodell und Periodensystem
 layout: page
 showinmenu: false
 tags: [thema, atommodell, pse]
-page-last-updated: 2020-11-12
+page-last-updated: 2020-11-17
 ---
 
 ## Worum geht's?
