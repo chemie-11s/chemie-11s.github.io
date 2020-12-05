@@ -25,10 +25,11 @@ Ich kann ...
 
 ## Fachbegriffe und Konzepte
 
-- Avogadro-Konstante
-- Stoffmenge
-- molare Masse
-- molares Volumen
+- Avogadro-Konstante N<sub>A</sub>
+- Teilchenzahl N
+- Stoffmenge n
+- molare Masse M
+- molares Volumen V<sub>M</sub>
 
 {% include figure name="chemisches_rechnen.svg" alt="Überblick über Größen und Formeln zum chemischen Rechnen" %}
 
