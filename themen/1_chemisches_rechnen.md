@@ -30,7 +30,7 @@ Ich kann ...
 - molare Masse
 - molares Volumen
 
-{% include img name="chemisches_rechnen.svg" alt="Überblick über Größen und Formeln zum chemischen Rechnen" %}
+{% include figure name="chemisches_rechnen.svg" alt="Überblick über Größen und Formeln zum chemischen Rechnen" %}
 
 ## Material
 
