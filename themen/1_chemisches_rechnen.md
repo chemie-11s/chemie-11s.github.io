@@ -33,6 +33,8 @@ Ich kann ...
 
 {% include figure name="chemisches_rechnen.svg" alt="Überblick über Größen und Formeln zum chemischen Rechnen" %}
 
+{% include figure name="chemisches_rechnen_stoffebene_teilchenebene.svg" alt="Überblick über Größen und Formeln zum chemischen Rechnen" %}
+
 ## Material
 
 - Lehrbücher
