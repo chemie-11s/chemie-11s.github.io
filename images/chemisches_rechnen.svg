@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.2" viewBox="1999 4599 25202 14002" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
+<svg version="1.2" viewBox="1999 4599 25202 13190" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
  <defs>
   <font id="EmbeddedFont_1" horiz-adv-x="2048">
    <font-face font-family="Liberation Sans embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="1852" descent="423"/>
@@ -57,6 +57,13 @@
    <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
    <glyph unicode="⋅" horiz-adv-x="239" d="M 502,515 C 480,538 469,564 469,592 469,620 480,646 502,669 524,691 549,702 578,702 609,702 634,691 655,670 677,648 688,622 688,592 688,562 677,536 655,514 634,492 609,481 578,481 550,481 525,492 502,515 Z"/>
    <glyph unicode="=" horiz-adv-x="1191" d="M 221,293 L 221,420 1405,420 1405,293 221,293 Z M 221,791 L 221,920 1405,920 1405,791 221,791 Z"/>
+  </font>
+ </defs>
+ <defs>
+  <font id="EmbeddedFont_4" horiz-adv-x="2048">
+   <font-face font-family="OpenSymbol embedded" units-per-em="2048" font-weight="normal" font-style="italic" ascent="1402" descent="450"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+   <glyph unicode="ϱ" horiz-adv-x="953" d="M 834,-411 L 795,-411 C 781,-384 749,-367 698,-362 623,-382 575,-392 556,-392 442,-392 362,-385 316,-370 247,-347 199,-300 172,-229 112,-69 122,118 203,333 267,503 350,639 452,741 601,889 738,963 863,963 988,963 1080,912 1138,811 1194,714 1194,591 1138,442 1093,323 1014,218 900,127 780,32 658,-15 532,-15 347,-15 252,77 248,261 202,109 200,-16 244,-115 267,-168 303,-201 352,-214 385,-223 444,-227 529,-227 606,-227 683,-227 760,-227 813,-256 838,-317 834,-411 Z M 975,510 C 1071,765 1040,893 882,893 789,893 688,826 581,692 510,603 453,501 409,384 326,163 365,53 524,53 621,53 717,110 810,225 882,313 937,408 975,510 Z"/>
   </font>
  </defs>
  <defs class="EmbeddedBulletChars">
@@ -158,12 +165,6 @@
      </clipPath>
     </defs>
     <g clip-path="url(#clip_path_1)"/>
-   </g>
-  </g>
-  <g class="Graphic">
-   <g>
-    <rect class="BoundingBox" stroke="none" fill="none" x="11600" y="15717" width="4524" height="2884"/>
-    <image x="11600" y="15717" width="4524" height="2884" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKsAAABtCAMAAADph2GCAAAACXBIWXMAAA7EAAAOwwHaapjcAAAAOVBMVEUAjAAQjAghlBAxnBhCpSlSrTFjtTlzvUKExlKczlqt1mO93nPO53ve74Tv94z////8A/sAAAD///+nguPOAAAAEXRSTlP/////////////////////ACWtmWIAAAPwSURBVHic7Zrt1qogEEaf/CgtbXn/V3sEJhOdAS1Getdx/2GJstgZMgyK4e+A3AI7QG6BHSC3wA6QW2AHyC2wA+TrursWAIr6Ph2X4zHK5ik0wEFisx4Nw9BbMUvRDd4xWqHlgZbUo3XtMKcf7t7xlW95rOhArr4qiod/jAfb8mBTcjXUo1B/mwnexrHQuYoL2/Jg07cr3brpDlfPeUXHtTxK8d0jfJnaHZfTBfbO3riWB9gterQ00/H99Xi9ePjqs5b6csse3UQw0bsRsLii4FrqinE92udqWdEuK7iWql4cvNpjWcG1VPXiiKv9mOtzWbG6gmupaMUTVztdP+F01eF01eF01eF01eF/dO2byuwvoLxy+U4a0rj2FeWSJgW6sGlvApK4NmPmQFmPzSX5DYWvSeFqbub0z1vZmrn+exK4tvAS3Ubtzn7varPJfnbiYio0xuz3rmYEeHmuvbFclv4tX7s+gcVeh63x7nR24AozWhfbnuVKPzdwRb0enTetQfAxcEW5drX7TOzeYi5Axdr1IQ3x6XqeHK7PP+QqTh0/4dosTv2y62KCMlXSPJDddSFmqpTWWp8BKta3xK4Q7qsGn/bzObyrZ/ZI+ocmd/UWrGbxki7EJnf1lipjQnOR3uL+guvsbYgZrlop14eACuK91KrE183ZABVWdCZbh1W3/GWqrkM3LreqcTLo2xJlcJmd39VsZpQm0YruZfyC6+Zmp2uk01nfer2kAVScrmkBFacrxz3Yl8vy+KUoNTryvtq+pKDYBkwwa59ei8Xum1TCycqcFDZTQcWBru6jJn656T5+EYImqDjy2bLbpQ17yu5OSps9oOJIV7tTxn0oNAyF/DNyvDN6/dHcOq4Tzxig6CRid/q4dP5qToh7k9AzkmmlUXkJTWd5XN2Ev87m7oEZYsjk6qbY9SwqVL+AopEMH2dD8dWwanAMbJwVh/GrkaaRzJWLs5U0PRDQNJLh4qw87RLQdRJh4mwjhzMHVI1kGLFgfDVA1Uhm/YeHll8OKDuJrB4k9nHzgK6RzGqCuoQn1yGj6zLOhtMwS/isJouAGomvBigbyfg38hlKXggEz6riLQBj8dUAbSMZ78G300LkVQq0jWTmE2o0vhqg7yQyC1Sbvq6BupHMLM4WweSFgLqRzPvzn3h8NeAAJ5Epzl7jk+uQ2XWaqOLx1QB9o1DvLs5u/AwI+kIBKLDWkeSFgL5QAPet0pb4aoC+UAg7UMtY8kJAXSeInQAQS14IqOsE6SfXDZ8qQF0nTEGqweSFgLZMhJZct3yrAG2ZCE9y3XLtpos0sXF222fsUFZJCXIL7AC5BXaA3AI7QG6BHfwDiKcbFUd6OwoAAAAASUVORK5CYII="/>
    </g>
   </g>
   <g class="com.sun.star.drawing.TextShape">
@@ -278,6 +279,23 @@
     <rect class="BoundingBox" stroke="none" fill="none" x="3499" y="8199" width="3502" height="1965"/>
     <path fill="none" stroke="rgb(0,0,0)" d="M 3500,8200 L 6625,9953"/>
     <path fill="rgb(0,0,0)" stroke="none" d="M 7000,10163 L 6681,9812 6534,10074 7000,10163 Z"/>
+   </g>
+  </g>
+  <g class="OLE2">
+   <g id="id21">
+    <rect class="BoundingBox" stroke="none" fill="none" x="12200" y="15800" width="2177" height="1989"/>
+    <defs>
+     <clipPath id="clip_path_5" clipPathUnits="userSpaceOnUse">
+      <path d="M 12197,15796 L 14367,15796 14367,17780 12197,17780 12197,15796 Z"/>
+     </clipPath>
+    </defs>
+    <g clip-path="url(#clip_path_5)">
+     <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="844px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="12306" y="17044"><tspan fill="rgb(0,0,0)" stroke="none">ϱ</tspan></tspan></tspan></text>
+     <text class="TextShape"><tspan class="TextParagraph" font-family="OpenSymbol" font-size="844px" font-weight="400"><tspan class="TextPosition" x="12782" y="17044"><tspan fill="rgb(0,0,0)" stroke="none">=</tspan></tspan></tspan></text>
+     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="844px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="13576" y="16541"><tspan fill="rgb(0,0,0)" stroke="none">m</tspan></tspan></tspan></text>
+     <rect fill="rgb(0,0,0)" stroke="none" x="13523" y="16779" width="724" height="42"/>
+     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="844px" font-style="italic" font-weight="400"><tspan class="TextPosition" x="13549" y="17599"><tspan fill="rgb(0,0,0)" stroke="none">V</tspan></tspan></tspan></text>
+    </g>
    </g>
   </g>
  </g>
