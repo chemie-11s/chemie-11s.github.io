@@ -10,7 +10,7 @@ page-last-updated: 2021-01-20
 
 ## Zeitlicher Rahmen
 
-- etwa zwei Doppelstunden
+- etwa ~~zwei~~ vier Doppelstunden
 
 ## Checkliste
 
