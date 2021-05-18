@@ -3,7 +3,7 @@ title: E4 Propanal herstellen und nachweisen
 layout: page
 showinmenu: false
 tags: [experiment, organische-sauerstoffverbindungen]
-page-last-updated: 2020-11-08
+page-last-updated: 2021-05-18
 ---
 
 ## Lernziele
