@@ -16,6 +16,8 @@ Ziele sind 1) die Herstellung eines Aldehyds aus einem primären Alkohol durch O
 
 Führe das Experiment durch und fertige ein Protokoll an. Für **Geräte und Chemikalien** sowie **Durchführung** notiere "siehe Webseite".
 
+0. Lies die Experimentieranleitung vollständig.
+0. Beachte die Hinweise zu Sicherheit und Entsorgung.
 1. Nenne deine Beobachtungen.
 2. Werte das Experiment aus.
 	1. Erläutere die Oxidation von 1-Propanol zum Aldehyd und von 2-Propanol zum Keton anhand der Reaktionsgleichungen und der zugehörigen Strukturformeln.
