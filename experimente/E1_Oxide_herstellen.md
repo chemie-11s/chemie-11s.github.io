@@ -13,11 +13,11 @@ Dieses Experiment gehört zu den Themen 3) Chemische Reaktionen und 4) Säure-Ba
 Ziele des Experiments sind 1) die Herstellung von Oxiden aus Metallen und Nichtmetallen und 2) die Untersuchung der Reaktion dieser Oxide mit Wasser.
 
 Konkret werden folgende Lernziele bearbeitet:
-	- 3:1 Atombindung, Metallbindung und Ionenbindung vergleichen
-	- 3:3a die Bildung von Metall- und Nichtmetalloxiden aus den Elementen beschreiben, dazu Wort- und Formelgleichungen aufstellen und daran die Merkmale der chemischen Reaktion erläutern
-	- 3:5 chemische Reaktionen der Oxide mit Wasser erklären und dazu Wort- und Formelgleichungen aufstellen
-	- 3:6a anhand der Ionenbindung in Hydroxiden und der polaren Atombindung in Säuren die Reaktionen von Säure- und Baselösungen erklären
-	- 4:1 (abgewandelt) eine chemische Reaktion als Reaktion mit Protonenübergang darstellen, dazu Wort- und Formelgleichungen aufstellen und daran das Donator-Akzeptor-Prinzip erläutern
+- 3:1 Atombindung, Metallbindung und Ionenbindung vergleichen
+- 3:3a die Bildung von Metall- und Nichtmetalloxiden aus den Elementen beschreiben, dazu Wort- und Formelgleichungen aufstellen und daran die Merkmale der chemischen Reaktion erläutern
+- 3:5 chemische Reaktionen der Oxide mit Wasser erklären und dazu Wort- und Formelgleichungen aufstellen
+- 3:6a anhand der Ionenbindung in Hydroxiden und der polaren Atombindung in Säuren die Reaktionen von Säure- und Baselösungen erklären
+- 4:1 (abgewandelt) eine chemische Reaktion als Reaktion mit Protonenübergang darstellen, dazu Wort- und Formelgleichungen aufstellen und daran das Donator-Akzeptor-Prinzip erläutern
 
 ## Aufgabe
 
