@@ -8,22 +8,29 @@ page-last-updated: 2021-05-18
 
 ## Lernziele
 
-Dieses Experiment (Kombination der Experimente 5 und 6 im Lehrplan) ist Teil des Themas Organische Verbindungen mit Sauerstoff. 
+Dieses Experiment (Kombination der Experimente 5 und 6 im Lehrplan) ist Teil des Themas 7) Organische Verbindungen mit Sauerstoff. Die Bestimmung von Oxidationszahlen ist Teil des Themas 5) Redoxreaktionen.
 
 Ziele sind 1) die Herstellung eines Aldehyds aus einem primären Alkohol durch Oxidation, 2) die Herstellung eines Ketons aus einem sekundären Alkohol durch Oxidation und 3) der Nachweis des Aldehyds durch die ~~Schiff'sche Probe~~ Silberspiegelprobe.
+
+Die eigentlichen Lernziele laut Lehrplan sind:
+- 7:1 (abgewandelt) die Molekülstruktur von Propanol, Propanal und Propanon beschreiben.
+- 7:1a Aldehyd- und Carboxygruppe als funktionelle Gruppen kennzeichnen
+- 7:3 (abgewandelt) die partielle Oxidation von Propanol zu Propanal erläutern und Wort und Formelgleichungen dazu aufstellen
+- 5:
 
 ## Aufgabe
 
 Führe das Experiment durch und fertige ein Protokoll an. Für **Geräte und Chemikalien** sowie **Durchführung** notiere "siehe Webseite".
 
-0. Lies die Experimentieranleitung vollständig.
-0. Beachte die Hinweise zu Sicherheit und Entsorgung.
-1. Nenne deine Beobachtungen.
+0. Lies die Experimentieranleitung vollständig. Beachte die Hinweise zu Sicherheit und Entsorgung. (**3 BE**)
+1. Nenne deine Beobachtungen. (**4 BE**)
 2. Werte das Experiment aus.
-	1. Erläutere die Oxidation von 1-Propanol zum Aldehyd und von 2-Propanol zum Keton anhand der Reaktionsgleichungen und der zugehörigen Strukturformeln.
-	2. Erkläre mit Hilfe der Oxidationszahlen, dass es sich um eine Oxidationsreaktion handelt.
-	3. Beschreibe den Nachweis eines Aldehyds mit ~~Schiffs Reagenz~~ der Silberspiegelprobe. Formuliere die Reaktionsgleichung.
-	4. Bewerte die beiden versuchten Nachweisreaktionen (Silberspiegelprobe, einmal mit Propanal und einmal mit Propanon) auf ihren Erfolg.
+	1. Erläutere die Oxidation von 1-Propanol zum Aldehyd und von 2-Propanol zum Keton anhand der Reaktionsgleichungen und der zugehörigen Strukturformeln. Kennzeichne und benenne die funktionellen Gruppen. (**2 x 4 BE = 8 BE**)
+	2. Erkläre mit Hilfe der Oxidationszahlen, dass es sich um eine Oxidationsreaktion handelt. (**4 BE**)
+	3. Beschreibe den Nachweis eines Aldehyds mit ~~Schiffs Reagenz~~ der Silberspiegelprobe. Formuliere die Reaktionsgleichung. (**2 BE**)
+	4. Bewerte die beiden versuchten Nachweisreaktionen (Silberspiegelprobe, einmal mit Propanal und einmal mit Propanon) auf ihren Erfolg. (**2 BE**)
+	
+**Gesamtpunktzahl: 19 BE**
 
 ## Sicherheit
 

@@ -3,7 +3,7 @@ title: E1 Oxide und saure und basische Lösungen herstellen
 layout: page
 showinmenu: false
 tags: [experiment, chemische-reaktion, protonenübergang]
-page-last-updated: 2021-05-19
+page-last-updated: 2021-06-11
 ---
 
 ## Lernziele
@@ -69,9 +69,9 @@ Führe das Experiment durch und fertige ein Protokoll an. Für **Geräte und Che
 
 ## Durchführung
 
-1. Bereite die Erlenmeyerkolben vor. Lege den passenden Stopfen bereit und befestige den Verbrennungslöffel so, dass er im Erlenmeyerkolben oberhalb der Wasseroberfläche bleibt, wenn dieser mit dem Stopfen verschlossen wird. Gib ca. 1 cm hoch Wasser hinein und füge einige Tropfen Universalindikator hinzu.
-2. Halte ca. 5 cm Magnesiumband an einem Ende mit einer Tiegelzange fest und entzünde es in der Brennerflamme. Sammle das Reaktionsprodukt in einer Petrischale, gib es anschließend in einen der beiden Erlenmeyerkolben und schwenke diesen vorsichtig. Beobachte.
-3. **Variante 1** Gib eine Spatelspitze Schwefel in einen Verbrennungslöffel. Entzünde den Schwefel über der Brennerflamme. Halte den Verbrennungslöffel anschließend direkt in den Erlenmeyerkolben (oberhalb des Wassers) und verschließe diesen mit dem Stopfen. Schwenke vorsichtig und beobachte.
+1. Bereite die Erlenmeyerkolben vor. Gib ca. 1 cm hoch Wasser hinein und füge einige Tropfen Universalindikator hinzu.
+2. Halte ca. 5 cm Magnesiumband an einem Ende mit einer Tiegelzange fest und entzünde es in der Brennerflamme. Sammle das Reaktionsprodukt in einer Petrischale, gib es anschließend in einen der beiden Erlenmeyerkolben und schwenke diesen über mehrere Minuten hin und wieder vorsichtig. Beobachte.
+3. **Variante 1** Lege den durchbohrten Stopfen bereit und befestige den Verbrennungslöffel so, dass er im Erlenmeyerkolben oberhalb der Wasseroberfläche bleibt, wenn dieser mit dem Stopfen verschlossen wird. Gib eine Spatelspitze Schwefel in einen Verbrennungslöffel. Entzünde den Schwefel über der Brennerflamme. Halte den Verbrennungslöffel anschließend direkt in den Erlenmeyerkolben (oberhalb des Wassers) und verschließe diesen mit dem Stopfen. Schwenke vorsichtig und beobachte.
 4. **Variante 2** Erhitze den Eisennagel am Stopfen kurz im Brenner und tauche ihn in Schwefel, sodass dieser schmilzt und an der Nagelspitze hängen bleibt. Entzünde anschließend den Schwefel über der Brennerflamme und verfahre wie bei Variante 1.
 
 ## Entsorgung
