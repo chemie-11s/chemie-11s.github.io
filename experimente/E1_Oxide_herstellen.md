@@ -48,7 +48,7 @@ Führe das Experiment durch und fertige ein Protokoll an. Für **Geräte und Che
 - Mengenangaben beachten
 - bei der Verbrennung von Magnesium nicht direkt in die Flamme sehen
 - bei guter Belüftung arbeiten, idealerweise in Fensternähe
-- Schwefeldioxid {% include ghs name="gefahr" %}{% include ghs name="ätzend" %}{% include ghs name="giftig" %}
+- Schwefeldioxid {% include ghs name="gefahr" %} {% include ghs name="ätzend" %} {% include ghs name="giftig" %}
 - Schweflige Säure {% include ghs name="ätzend" %}
 
 ## Geräte und Chemikalien
