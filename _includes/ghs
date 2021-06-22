@@ -1,5 +1,5 @@
 {% if include.name %}
-<figure>
+<span>
 	<img src="/images/ghs/ghs_{{ include.name }}.png" alt="{{ include.name }}" width="45px" />
-</figure>
+</span>
 {% endif %}
