@@ -17,7 +17,7 @@ Führe das Experiment durch und fertige ein Protokoll an. Für **Geräte und Che
 0. Lies die Experimentieranleitung vollständig. Beachte die Hinweise zu Sicherheit und Entsorgung. (**3 BE**)
 1. Nenne deine Beobachtungen. (**3 BE**)
 2. Formuliere für die 3 Experimente die Wort- und Reaktionsgleichungen. (**3 BE**) Bestimme alle Oxidationszahlen und kennzeichne jeweils die Oxidation und die Reduktion. (**6 BE**)
-4. Untersuche, inwieweit es sich bei den Experimenten um chemische Reaktionen handelt. Stelle dazu deine Überlegungen zu den drei Merkmalen chemischer Reaktionen für die drei Experimente stichpunktartig in einer Tabelle dar. (**9 BE**)
+4. Untersuche, inwieweit es sich bei den Experimenten um chemische Reaktionen handelt. Stelle dazu deine Überlegungen zu den drei Merkmalen chemischer Reaktionen (Stoffumwandlung, Energieumwandlung, Teilchenveränderung / Umbau der chemischen Bindung) für die drei Experimente **stichpunktartig** in einer Tabelle dar. (**9 BE**)
 
 ----------------
 
