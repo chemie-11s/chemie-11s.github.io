@@ -35,7 +35,7 @@ Führe das Experiment durch und fertige ein Protokoll an. Für **Geräte und Che
 - Kupfer(II)-sulfat {% include ghs name="gefahr" %} {% include ghs name="umweltgefährdend" %}
 - Eisennagel
 - Aktivkohle
-- Kupfer(II)-oxid {% include ghs name="gefahr" %} {% include ghs name="umweltgefährdend" %}
+<li>Kupfer(II)-oxid {% include ghs name="gefahr" %} {% include ghs name="umweltgefährdend" %}</li>
 
 - Brenner
 - Streichhölzer
