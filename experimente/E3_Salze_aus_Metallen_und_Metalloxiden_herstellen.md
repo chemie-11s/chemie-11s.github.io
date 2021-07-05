@@ -1,5 +1,5 @@
 ---
-title: E3 Salze aus Metallen und Metalloxiden herstellen
+title: E3 Redoxreaktionen
 layout: page
 showinmenu: false
 tags: [experiment, elektronenübergang]
@@ -70,3 +70,4 @@ Führe das Experiment durch und fertige ein Protokoll an. Für **Geräte und Che
 
 - Redoxreaktionen: Chemie heute Kapitel 13.2 und 13.3
 - Oxidationszahlen: Chemie heute S. 356
+- siehe Themenseite zu Redoxreaktionen
