@@ -68,4 +68,5 @@ Führe das Experiment durch und fertige ein Protokoll an. Für **Geräte und Che
 
 ## Literatur und Materialien
 
-- 
+- Redoxreaktionen: Chemie heute Kapitel 13.2 und 13.3
+- Oxidationszahlen: Chemie heute S. 356
